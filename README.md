@@ -1,6 +1,6 @@
 ### Hi, my name is André Siboli. I'm Front-end developer.🖥️🖱️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://andresiboli.github.io/portfolio/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-siboli-81b969244/) 
 [![Porfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://andresiboli.github.io/portfolio/)
 
 ## About me
