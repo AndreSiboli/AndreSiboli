@@ -7,7 +7,7 @@
 
 ```javascript
 const siboli = {
-    age: 21
+    age: 22
     country: "Brazil"
     graduatedAt: "Universidade Cruzeiro do Sul"
     hobbies: [Games, Guitar, Music]
@@ -28,6 +28,7 @@ const siboli = {
 <span title='Typescript'>![My Skills](https://skillicons.dev/icons?i=ts)</span>
 <span title='React'>![My Skills](https://skillicons.dev/icons?i=react)</span>
 <span title='Next.js'>![My Skills](https://skillicons.dev/icons?i=next)</span>
+<span title='Redux'>![My Skills](https://skillicons.dev/icons?i=redux)</span>
     
 </div>
 
