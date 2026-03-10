@@ -44,4 +44,4 @@ const siboli = {
 
 ## Most Used Techonologies
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AndreSiboli&theme=dark&hide=html&langs_count=4&hide_border=true&hide_title=true&bg_color=222&text_color=eee)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AndreSiboli&theme=dark&hide=html&langs_count=4&hide_border=true&hide_title=true&bg_color=151c24&text_color=eee)
